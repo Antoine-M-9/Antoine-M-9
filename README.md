@@ -3,7 +3,7 @@
 # Hi, I'm Antoine <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
 ## About me 👀
-- I leave in France 🍞
+- I live in France 🍞
 - I am currently in "Front-End Development" training at the Marie Thérèse Solacroup Institute. 📚
 - We also do design by working on software such as Blender, Figma and Affinity. 🎨
 
