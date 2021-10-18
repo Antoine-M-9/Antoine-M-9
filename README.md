@@ -32,7 +32,7 @@
   <img src="logoCode/blender2.svg" alt="logo Blender" width="50" height="50">
   <img src="logoCode/figma1.svg" alt="logo Figma" width="50" height="50">
   <img src="logoCode/affinityPhoto.svg" alt="logo Affinity Photo" width="50" height="50">
-  <img src="logoCode/affinityDesign.svg" alt="logo Affinity Design" width="48" height="48">
+  <img src="logoCode/affinityDesign.svg" alt="logo Affinity Design" width="50" height="50">
 </p>
 
 <br>
