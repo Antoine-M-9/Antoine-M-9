@@ -1,12 +1,16 @@
 <img src="https://github.com/Antoine-M-9/Antoine-M-9/blob/main/banniererGithub.png" alt="Banniere Github">
 
-# Hi, I'm Antoine <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+<h1 align="center"> Hi, I'm Antoine <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> </h1>
 
-<h2 align="center"> About me 👀 </h2>
+<br>
 
-- I live in France 🍞
-- I am currently in "Front-End Development" training at the Marie Thérèse Solacroup Institute. 📚
-- We also do design by working on software such as Blender, Figma and Affinity. 🎨
+<h3 align="center"> About me 👀 </h2>
+
+<br>
+
+    - I live in France 🍞
+    - I am currently in "Front-End Development" training at the Marie Thérèse Solacroup Institute. 📚
+    - We also do design by working on software such as Blender, Figma and Affinity. 🎨
 
 <br>
 <br>
@@ -28,7 +32,7 @@
   <img src="logoCode/blender2.svg" alt="logo Blender" width="50" height="50">
   <img src="logoCode/figma1.svg" alt="logo Figma" width="50" height="50">
   <img src="logoCode/affinityPhoto.svg" alt="logo Affinity Photo" width="50" height="50">
-  <img src="logoCode/affinityDesign.svg" alt="logo Affinity Design" width="50" height="50">
+  <img src="logoCode/affinityDesign.svg" alt="logo Affinity Design" width="48" height="48">
 </p>
 
 <br>
