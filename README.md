@@ -1,4 +1,4 @@
-<img src="logoCode/banniere.svg" alt="Banniere Github">
+<img src="logoCode/banniereGithub.svg" alt="Banniere Github">
 
 <h1 align="center"> Hi, I'm Antoine <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> </h1>
 
